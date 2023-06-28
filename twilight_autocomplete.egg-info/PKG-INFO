@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: twilight-autocomplete
+Version: 1.0.0
+Summary: Autocomplete Package built using NLTK for the twilight messaging client
+Home-page: UNKNOWN
+Author: Avneh Singh Bhatia
+Author-email: avnehb@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # **Twilight-Autocomplete**
 
 ## _Twilight-Autocomplete is a powerful Python library that provides intelligent autocomplete functionality for text-based applications. Whether you're working on a chatbot, text editor, or any other application that requires intelligent text completion, ## Twilight-Autocomplete has got you covered. Developed by Avneh S. Bhatia, this library leverages the power of NLP and machine learning techniques to predict the next word in a sentence based on a given context._
@@ -50,3 +62,4 @@
 
 # **Acknowledgements**
 ## I would like to thank the nltk development team for their excellent work on the Natural Language Toolkit, which forms the foundation of Twilight-Autocomplete.
+
