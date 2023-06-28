@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='twilight-autocomplete',
-    version='1.0.1',
+    version='1.0.3',
     description='Autocomplete Package built using NLTK for the twilight messaging client',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',

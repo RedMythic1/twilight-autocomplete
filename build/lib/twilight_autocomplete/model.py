@@ -2,6 +2,10 @@ from nltk.corpus import reuters
 from nltk import ngrams
 from collections import defaultdict
 
+import nltk
+nltk.download('reuters')
+nltk.download('punkt')
+
 def train_model(n):
     model = defaultdict(lambda: defaultdict(int))
     for sentence in reuters.sents():
